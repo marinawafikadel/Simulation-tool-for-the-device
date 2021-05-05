@@ -1,0 +1,127 @@
+.flexboxcontainer{
+    display:flex;
+    flex-direction: column;
+    border: 2px solid;
+    width: 1100px;
+    height: 650px;
+    margin: auto;
+}
+.control{
+    display:flex;
+    flex-direction: column;
+    margin-left: 85px;
+    margin-top: 10px;
+   
+}
+.mode{
+    display:flex;
+    flex-direction: row;
+   
+    
+   
+}
+.flexboxcontainer1{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 65px;
+    
+}
+.flexboxcontainer2{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 140px;
+  
+}
+.button1{
+    width:100px;
+    height:100px;
+    border: 3px ;
+    flex-direction: column;
+
+
+}
+.button2{
+    width:100px;
+    height:100px;
+    border: 3px;
+    flex-direction: column;
+
+}
+.button3{
+    width:100px;
+    height:100px;
+    border: 3px ;
+    flex-direction: column;
+
+}
+.button4{
+    width:100px;
+    height:100px;
+    border: 3px ;
+    flex-direction: column;
+
+}
+.button5{
+    width:100px;
+    height:100px;
+    border: 3px ;
+    flex-direction: column;
+
+}
+.button6{
+    width:100px;
+    height:100px;
+    border: 3px ;
+    flex-direction: column;
+
+}
+.button7{
+    width:100px;
+    height:100px;
+    border: 3px ;
+    flex-direction: column;
+
+}
+.button8{
+    width:100px;
+    height:100px;
+    border: 3px ;
+    flex-direction: column;
+    align-items: center;
+
+}
+.frame{
+    width:120px;
+    height:120px;
+  cursor: pointer;
+  
+
+}
+.frame:hover{
+    background-color: pink ;
+
+}
+.frame-playbutton{
+    width: "55px";
+    height: "55px";
+    margin-left: auto;
+    margin-right: auto;
+}
+.col-md-6{
+    display:flex;
+    flex-direction: column;
+    border: 2px solid;
+    width: 500px;
+    height: 550px;
+    margin: auto;
+    align-items: 'center';
+}
+.form-group{
+    margin-top: 100px;
+    margin-left: 150px;
+  justify-content: center;
+  flex-direction: column;
+  text-align: left;
+}
